@@ -1,0 +1,34 @@
+[panda]
+_id: 488
+birthday: 2017/6/16
+birthplace: 90
+children: none
+commitdate: 2018/12/12
+en.name: Misa
+en.nicknames: none
+en.othernames: none
+gender: f
+jp.name: ミサ
+jp.nicknames: none
+jp.othernames: none
+language.order: en, jp
+litter: 489
+location.1: 90, 2017/6/16
+location.2: 130, 2018/9/19
+photo.1: https://www.instagram.com/p/B2rDAeXF_Uv/media/?size=m
+photo.1.author: thetoledozoo
+photo.1.commitdate: 2019/12/1
+photo.1.link: https://www.instagram.com/thetoledozoo/
+photo.1.tags: smile
+photo.2: https://www.instagram.com/p/B3fyzYpFbs-/media/?size=m
+photo.2.author: sethgeib
+photo.2.commitdate: 2019/12/7
+photo.2.link: https://www.instagram.com/sethgeib/
+photo.2.tags: paws, portrait, smile, whiskers
+photo.3: https://www.instagram.com/p/BsmJhFlBjup/media/?size=m
+photo.3.author: rossifari
+photo.3.commitdate: 2020/3/3
+photo.3.link: https://www.instagram.com/rossifari/
+photo.3.tags: blink, itchy, paws, portrait, whiskers
+species: 2
+zoo: 130
